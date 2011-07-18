@@ -1,0 +1,2 @@
+Place the User Attribute Fetcher (uaf) in a web-accessible directory on the same server as your target system (e.g., Drupal).
+Edit config/config.php to meet your needs.
